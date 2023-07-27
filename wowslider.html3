@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Bootstrap carousel example</title>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="Made with WOW Slider - Create beautiful, responsive image sliders in a few clicks. Awesome skins and animations. Bootstrap carousel example" />
+	
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine1/style.css" />
+	<script type="text/javascript" src="engine1/jquery.js"></script>
+	<!-- End WOWSlider.com HEAD section -->
+
+</head>
+<body style="background-color:#d7d7d7;margin:auto">
+	
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container1">
+	<div class="ws_images"><ul>
+		<li><img src="data1/images/bel_imageuob.png" alt="bel imageuob" title="bel imageuob" id="wows1_0"/></li>
+		<li><img src="data1/images/bel_toles_uob.png" alt="bel toles uob" title="bel toles uob" id="wows1_1"/></li>
+		<li><img src="data1/images/conferance.uob.png" alt="conferance.uob" title="conferance.uob" id="wows1_2"/></li>
+		<li><img src="data1/images/conference.uob.png" alt="conference.uob" title="conference.uob" id="wows1_3"/></li>
+		<li><img src="data1/images/me_girl.jpg" alt="me girl" title="me girl" id="wows1_4"/></li>
+		<li><img src="data1/images/meeting.png" alt="meeting" title="meeting" id="wows1_5"/></li>
+		<li><img src="data1/images/toles.uob.png" alt="toles.uob" title="toles.uob" id="wows1_6"/></li>
+		<li><img src="data1/images/conference.uob_0.png" alt="conference.uob" title="conference.uob" id="wows1_7"/></li>
+		<li><img src="data1/images/fondecran.png" alt="fond'ecran" title="fond'ecran" id="wows1_8"/></li>
+		<li><img src="data1/images/idee.png" alt="idee" title="idee" id="wows1_9"/></li>
+		<li><img src="data1/images/les_tles_uob.png" alt="les tles uob" title="les tles uob" id="wows1_10"/></li>
+		<li><img src="data1/images/metting_avec_le_ministre.png" alt="metting avec le ministre" title="metting avec le ministre" id="wows1_11"/></li>
+		<li><img src="data1/images/ministre_assis.png" alt="ministre assis" title="ministre assis" id="wows1_12"/></li>
+		<li><a href="http://wowslider.net"><img src="data1/images/soutenance.png" alt="image slider" title="soutenance" id="wows1_13"/></a></li>
+		<li><img src="data1/images/suivi.png" alt="suivi" title="suivi" id="wows1_14"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="bel imageuob"><span><img src="data1/tooltips/bel_imageuob.png" alt="bel imageuob"/>1</span></a>
+		<a href="#" title="bel toles uob"><span><img src="data1/tooltips/bel_toles_uob.png" alt="bel toles uob"/>2</span></a>
+		<a href="#" title="conferance.uob"><span><img src="data1/tooltips/conferance.uob.png" alt="conferance.uob"/>3</span></a>
+		<a href="#" title="conference.uob"><span><img src="data1/tooltips/conference.uob.png" alt="conference.uob"/>4</span></a>
+		<a href="#" title="me girl"><span><img src="data1/tooltips/me_girl.jpg" alt="me girl"/>5</span></a>
+		<a href="#" title="meeting"><span><img src="data1/tooltips/meeting.png" alt="meeting"/>6</span></a>
+		<a href="#" title="toles.uob"><span><img src="data1/tooltips/toles.uob.png" alt="toles.uob"/>7</span></a>
+		<a href="#" title="conference.uob"><span><img src="data1/tooltips/conference.uob_0.png" alt="conference.uob"/>8</span></a>
+		<a href="#" title="fond'ecran"><span><img src="data1/tooltips/fondecran.png" alt="fond'ecran"/>9</span></a>
+		<a href="#" title="idee"><span><img src="data1/tooltips/idee.png" alt="idee"/>10</span></a>
+		<a href="#" title="les tles uob"><span><img src="data1/tooltips/les_tles_uob.png" alt="les tles uob"/>11</span></a>
+		<a href="#" title="metting avec le ministre"><span><img src="data1/tooltips/metting_avec_le_ministre.png" alt="metting avec le ministre"/>12</span></a>
+		<a href="#" title="ministre assis"><span><img src="data1/tooltips/ministre_assis.png" alt="ministre assis"/>13</span></a>
+		<a href="#" title="soutenance"><span><img src="data1/tooltips/soutenance.png" alt="soutenance"/>14</span></a>
+		<a href="#" title="suivi"><span><img src="data1/tooltips/suivi.png" alt="suivi"/>15</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">bootstrap carousel example</a> by WOWSlider.com v8.8</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine1/wowslider.js"></script>
+	<script type="text/javascript" src="engine1/script.js"></script>
+	<!-- End WOWSlider.com BODY section -->
+
+</body>
+</html>
